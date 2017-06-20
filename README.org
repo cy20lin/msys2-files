@@ -1,0 +1,25 @@
+﻿#+TITLE: MSYS2 files
+#+AUTHOR: ChienYu Lin
+#+EMAIL: cy20lin@google.com
+#+STARTUP: showall
+
+  Provides latest =MSYS2= archives in =.zip= format.
+
+* Why? 
+
+  Because it is much easier to manipulate =.zip= file than =.tar.xz= file on native Windows.
+
+* Files 
+
+  - [[file:Base/i686/msys2-base-i686-latest.zip?raw=true][msys2-base-i686-latest.zip]] ::
+    converted form [[https://sourceforge.net/projects/msys2/files/Base/i686][msys2-base-i686-20161025.tar.xz]]
+
+  - [[file:Base/x86_64/msys2-base-x86_64-latest.zip?raw=true][msys2-base-x86_64-latest.zip]] ::
+    converted from [[https://sourceforge.net/projects/msys2/files/Base/x86_64][msys2-base-x86_64-20161025.tar.xz]]
+
+* Links
+
+  - [[https://github.com/msys2/msys2][MSYS2 GitHub]]
+  - [[https://github.com/msys2/msys2/wiki][MSYS2 Wiki]]
+  - [[http://www.msys2.org][MSYS2 Website]]
+  - [[https://sourceforge.net/projects/msys2][MSYS2 SourceForge]]
